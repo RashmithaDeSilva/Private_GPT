@@ -20,10 +20,12 @@ docker-compose -f ./Docker/docker-compose.yml up -d
 * You can download models from ollama "https://ollama.com/library" to ollama container.
 * Method 1
     * Using docker dekstop
-    ![alt text](imgs/img-2.png)
+
+![alt text](imgs/img-2.png)
+
 * Method 2
     * Using CMD
-    ~~~sh
-    docker exec -it ollama sh
-    ~~~
-    ![alt text](imgs/img-3.png)
+~~~sh
+docker exec -it ollama sh
+~~~
+![alt text](imgs/img-3.png)
