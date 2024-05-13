@@ -7,3 +7,15 @@ This is private chatGPT model that can use locally, and this project create base
 ~~~sh
 docker-compose -f ./Docker/docker-compose.yml up -d 
 ~~~
+
+<br>
+
+---
+
+<br>
+
+### GUI
+
+![alt text](imgs/img-1.png)
+
+![alt text](imgs/img-2.png)
